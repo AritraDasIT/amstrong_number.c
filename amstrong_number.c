@@ -1,6 +1,6 @@
 // amstrong number or not 
 #include<stdio.h>
-#include<math.h>
+#include<math.h> 
 int main()
 {
 	int n , sum=0 , cube , i  ;
